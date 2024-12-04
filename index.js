@@ -1,1 +1,1 @@
-console.log("hi this is demo for git hub")
+console.log("lets check if this works properly")
